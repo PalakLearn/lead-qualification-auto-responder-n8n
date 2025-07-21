@@ -33,7 +33,8 @@ Qualify website form leads automatically using AI, send personalized responses, 
 - `slack-hot-lead-alert.png`
 
 ##  Visuals 
- n8n Workflow Diagram
+n8n Workflow Diagram
+
 <img width="840" height="159" alt="Screenshot 2025-07-21 221452" src="https://github.com/user-attachments/assets/9a17d55f-f48f-45ab-a00b-cbfb302d36c1" />
 
 Webhook Input Example
