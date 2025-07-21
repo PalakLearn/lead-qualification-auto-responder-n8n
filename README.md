@@ -41,7 +41,11 @@ Webhook Input Example
 <img width="1530" height="842" alt="Screenshot 2025-07-21 223053" src="https://github.com/user-attachments/assets/f52e23b4-6fc5-40f2-b427-3d17cbf4ffe6" />
 HTTP Request Configuration
 <img width="1520" height="807" alt="Screenshot 2025-07-21 222120" src="https://github.com/user-attachments/assets/e61d060f-a199-435c-8978-2288ffc3e6a1" />
+
+personalized Response Email
 <img width="917" height="292" alt="Screenshot 2025-07-21 222537" src="https://github.com/user-attachments/assets/d320a66a-948a-4ffa-b862-44e049235111" />
+
+Slack Hot Lead Alert
 <img width="1093" height="463" alt="Screenshot 2025-07-21 222839" src="https://github.com/user-attachments/assets/d4c867e9-e0f2-463f-ace7-d1c698dced82" />
 
 ## ✍️ Author
