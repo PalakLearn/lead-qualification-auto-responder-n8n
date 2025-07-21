@@ -5,7 +5,7 @@ AI-based lead qualification and auto-responder workflow built in n8n using OpenA
 ##  Objective  
 Qualify website form leads automatically using AI, send personalized responses, and alert sales for high-intent prospects — all in real-time.
 
-## 🛠 Tools Used  
+##  Tools Used  
 - n8n (workflow automation)  
 - OpenAI GPT-4 (intent analysis + response personalization)  
 - Gmail/Outlook (email sender)  
