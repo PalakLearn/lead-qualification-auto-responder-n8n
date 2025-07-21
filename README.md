@@ -35,6 +35,7 @@ Qualify website form leads automatically using AI, send personalized responses, 
 ##  Visuals 
  n8n Workflow Diagram
 <img width="840" height="159" alt="Screenshot 2025-07-21 221452" src="https://github.com/user-attachments/assets/9a17d55f-f48f-45ab-a00b-cbfb302d36c1" />
+
 Webhook Input Example
 <img width="1530" height="842" alt="Screenshot 2025-07-21 223053" src="https://github.com/user-attachments/assets/f52e23b4-6fc5-40f2-b427-3d17cbf4ffe6" />
 HTTP Request Configuration
