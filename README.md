@@ -1,4 +1,4 @@
-[llama3-lead-qualifier-prompt.json](https://github.com/user-attachments/files/21351592/llama3-lead-qualifier-prompt.json)# lead-qualification-auto-responder-n8n
+# lead-qualification-auto-responder-n8n
 AI-based lead qualification and auto-responder workflow built in n8n using OpenAI and Slack
 # 📬 Lead Qualification & AI Auto-Responder (n8n)
 
@@ -26,26 +26,8 @@ Qualify website form leads automatically using AI, send personalized responses, 
 - Prioritized hot leads for faster sales response
 
 ##  Files Included  
-- `lead-qualification-flow.json`  [Up{
-  "model": "meta-llama/Llama-3-8b-chat-hf",
-  "messages": [
-    {
-      "role": "system",
-      "content": "You are a lead qualification assistant. Based on the following message, classify it into one of these: 'Hot Lead', 'Warm Lead', or 'Cold Lead'. Only reply with the category."
-    },
-    {
-      "role": "user",
-      "content": "Name: John Smith Email: john.smith@example.com Message: I’m ready to purchase your product. Can someone contact me today to discuss the next steps?"
-    }
-  ],
-  "temperature": 0.2,
-  "max_tokens": 50,
-  "top_p": 1,
-  "stop": [],
-  "stream": false
-}
-[Uploading llama3-lead-qualifier-prompt.json…]()
-
+- `lead-qualification-flow.json`  
+[llama3-lead-qualifier-prompt.json](https://github.com/user-attachments/files/21351592/llama3-lead-qualifier-prompt.json)
 - `lead-analysis-openai.txt`  
 - `personalized-response-email.txt`  
 - `slack-hot-lead-alert.png`
