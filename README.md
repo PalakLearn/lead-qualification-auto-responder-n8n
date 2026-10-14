@@ -50,6 +50,6 @@ Slack Hot Lead Alert
 
 ## ✍️ Author
 Palak Chaturvedi  
-[LinkedIn](https://linkedin.com/in/palak-chaturvedi) | [Portfolio](https://www.notion.so/Lead-Qualification-AI-Auto-Responder-237080ad24ae80cc8b15e878f455fc78)
+[LinkedIn](https://www.linkedin.com/in/palak-chaturvedi-a25323211/) | [Portfolio](https://www.notion.so/Lead-Qualification-AI-Auto-Responder-237080ad24ae80cc8b15e878f455fc78)
 
 
